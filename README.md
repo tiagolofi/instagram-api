@@ -1,6 +1,11 @@
-# teste_andre
-testando com andré
+# Criando Módulos para Trabalhar com o Instagram
 
-Link do Repo: https://github.com/tiagolofi/teste_andre
+Autores: André Fernandes e Tiago Matos
 
-Continuo testando algo
+Link do Repo: https://github.com/tiagolofi/instagram-api
+
+## Instagram-API
+
+## Hackeando o Instagram
+
+Usando a tag de acessibilidade _'FFVAD'_
